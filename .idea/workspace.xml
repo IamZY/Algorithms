@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac79153c-1545-4042-8011-b1da3e457464" name="Default" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/src/com/offer/Q17/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/offer/Q18/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/com/offer/Q21/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/Q21/Solution.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +32,56 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/offer/Q18/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="648">
               <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+=======
+            <state relative-caret-position="240">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="25" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/offer/Q19/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="14" />
+              <folding>
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/offer/Q20/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/offer/Q21/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="251" column="37" selection-start-line="251" selection-start-column="25" selection-end-line="251" selection-end-column="37" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -330,11 +382,19 @@
       <workItem from="1582422654879" duration="16000" />
       <workItem from="1582543359639" duration="3483000" />
       <workItem from="1582610081941" duration="612000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1584273704785" duration="6490000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="51953000" />
+=======
+    <option name="totallyTimeSpent" value="58443000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -487,6 +547,33 @@
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+<<<<<<< Updated upstream
+=======
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/Q20/Solution.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/Q20/Solution.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/Q20/Solution.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/Q21/Solution.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+>>>>>>> Stashed changes
       </breakpoints>
       <option name="time" value="40" />
     </breakpoint-manager>
@@ -870,8 +957,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/offer/Q18/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="648">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+=======
+        <state relative-caret-position="240">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/offer/Q19/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="14" />
+          <folding>
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="251" column="37" selection-start-line="251" selection-start-column="25" selection-end-line="251" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/offer/Q20/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/offer/Q21/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
